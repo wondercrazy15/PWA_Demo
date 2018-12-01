@@ -7,9 +7,9 @@
   
 ### Technology!
 
-   - fronted		:- javascript html,nodejs
-	-	backed		:- firebase database
-	-	external library  :- firebase messanging api,notficaiton 							   api,sync api
+   - fronted :javascript html,nodejs
+   - backed		:- firebase database
+- external library  :- firebase messanging api,notficaiton api,sync api
 
   
  ###  Installation
