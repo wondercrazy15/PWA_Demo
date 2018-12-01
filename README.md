@@ -35,8 +35,7 @@ $ npm start
 - when user add any record it will be notify using push notification
 
 
-## Push Norificaiton 
-
+## Background sync
 
 - The basic concept is that you can queue events within the browser that will fire in your Service Worker when the browser has network connectivity.
 
